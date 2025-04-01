@@ -45,3 +45,6 @@ jobs:
         uses: github/codeql-action/analyze@v2
 ```
 
+Then, the repository was created in GitHub (https://github.com/jacksors/Class-27/). When the action was run on push, it successfully detected the same vulnerabilities in the scan.
+
+![](image-1.png)
